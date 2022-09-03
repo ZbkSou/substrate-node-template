@@ -1,5 +1,8 @@
 [作业 poe/src/lib.rs](https://github.com/ZbkSou/substrate-node-template/blob/main/pallets/poe/src/lib.rs)
+
 [作业 poe/src/tests.rs](https://github.com/ZbkSou/substrate-node-template/blob/main/pallets/poe/src/tests.rs)
+
+![1662222860(1)](https://user-images.githubusercontent.com/9262343/188279970-c8941d98-67f6-4807-960e-dfe3a4445ca4.png)
 
 
 ```
